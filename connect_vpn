@@ -1,0 +1,6 @@
+#!/bin/bash
+truncate -s 0 passwordfile.txt
+echo "email">>passwordfile.txt
+echo "password$1" >> passwordfile.txt
+sudo openvpn --config vpnconfigfile --auth-user-pass passwordfile.txt
+

@@ -1,4 +1,4 @@
-This small script is an attempt to  overcome typing burden
+This small script is an attempt to  overcome typing burden and unecessary installation of GUI tools
 
 replace "email" in connectvpn(bash script) with your email address;
 replace "password" in connectvpn file(bash script) with your vpn password;

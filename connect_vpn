@@ -1,4 +1,5 @@
 #!/bin/bash
+touch passwordfile.txt
 truncate -s 0 passwordfile.txt
 echo "email">>passwordfile.txt
 echo "password$1" >> passwordfile.txt

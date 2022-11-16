@@ -1,3 +1,5 @@
+This small script is an attempt to  overcome typing burden
+
 replace "email" in connectvpn(bash script) with your email address;
 replace "password" in connectvpn file(bash script) with your vpn password;
 replace vpnconfigfile_path in connectvpn file(bash script) with path to your vpn config file
